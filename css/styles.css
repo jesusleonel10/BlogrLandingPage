@@ -1,9 +1,6 @@
-html {
-  overflow-x: hidden;
-}
-
-body {
+html, body {
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 header {
@@ -377,6 +374,8 @@ footer .container-items ul a:hover, footer .container-items li a:hover {
   text-decoration: underline;
 }
 /*---------------------------- Responsive ---------------------------*/
+
+
 
 @media screen and (max-width: 1000px) {
 
