@@ -1,6 +1,9 @@
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-size: 16px;
-  overflow-x: hidden;
 }
 
 header {
@@ -206,7 +209,7 @@ header .text a:last-child:hover {
   position: relative;
   -webkit-box-pack: end;
       -ms-flex-pack: end;
-          justify-content: end;
+  justify-content: flex-end;
   padding: 120px;
   text-align: left;
 }
@@ -373,8 +376,14 @@ footer .container-items ul a, footer .container-items li a {
 footer .container-items ul a:hover, footer .container-items li a:hover {
   text-decoration: underline;
 }
+/*---------------------------- Responsive ---------------------------*/
 
 @media screen and (max-width: 1000px) {
+
+  body {
+    overflow-x: hidden;
+  }
+
   header .logo-container {
     display: flex;
     justify-content: space-between;
@@ -425,7 +434,6 @@ footer .container-items ul a:hover, footer .container-items li a:hover {
 
   header .container-menu .container-items .menu {
     margin: 0;
-    
     padding-bottom: 25px;
   }
   header .container-menu .container-items .menu ul {
@@ -551,6 +559,8 @@ footer .container-items ul a:hover, footer .container-items li a:hover {
   }
   .section-one picture {
     position: initial;
+    display: flex;
+    justify-content: center;
   }
 
   .section-two .text {
@@ -582,6 +592,8 @@ footer .container-items ul a:hover, footer .container-items li a:hover {
   }
   .section-three picture {
     position: initial;
+    display: flex;
+    justify-content: center;
   }
 
   footer {
