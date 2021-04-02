@@ -374,7 +374,7 @@ footer .container-items ul a:hover, footer .container-items li a:hover {
   text-decoration: underline;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 1000px) {
   header .logo-container {
     display: flex;
     justify-content: space-between;
@@ -421,15 +421,7 @@ footer .container-items ul a:hover, footer .container-items li a:hover {
 
   header .container-menu .container-items--mostrar {
     display: flex;
-    animation: 300ms ease desplegar 1;
   }
-
-  @keyframes desplegar {
-    from {
-      transform: scaleY(0);
-    }
-  }
-
 
   header .container-menu .container-items .menu {
     margin: 0;
