@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here!](https://www.frontendmentor.io/solutions/solution-landing-page-using-html-css-flexbox-and-js--gAHYdZ4M)
+- Live Site URL: [Here!](https://jesusleonel10.github.io/BlogrLandingPage/)
 
 ## My process
 
@@ -59,7 +59,6 @@ I want to continue deepening my knowledge in CSS, soon I will start learning CSS
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jesusleonel10)
+- Frontend Mentor - [@jesusleonel10](https://www.frontendmentor.io/profile/jesusleonel10)
 - Twitter - [@LeiTo_2k](https://www.twitter.com/LeiTo_2k)
 
